@@ -48,4 +48,4 @@ Se desideri eseguire il progetto localmente sul tuo computer, segui questi passa
 Questo progetto è sotto licenza [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ---
-Creato con ❤️ da [MGMarcoGesualdi].
+Creato con ❤️ da MGMarcoGesualdi.
