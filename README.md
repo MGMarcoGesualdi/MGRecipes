@@ -40,8 +40,8 @@ Se desideri eseguire il progetto localmente sul tuo computer, segui questi passa
 
 ## Contribuenti
 
-- Nome Cognome ([@username](link_al_profilo_github))
-- Nome Cognome ([@username](link_al_profilo_github))
+- Name Surname ([@username](link_al_profilo_github))
+- Name Surname ([@username](link_al_profilo_github))
 
 ## Licenza
 
