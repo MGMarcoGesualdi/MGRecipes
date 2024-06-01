@@ -30,7 +30,7 @@ Siamo sempre alla ricerca di nuove e deliziose ricette da aggiungere al nostro r
 
 Se desideri eseguire il progetto localmente sul tuo computer, segui questi passaggi:
 
-1. Clona il repository sul tuo computer utilizzando il comando `git clone https://github.com/tuonomeutente/cucina-creativa.git`
+1. Clona il repository sul tuo computer utilizzando il comando `https://github.com/MGMarcoGesualdi/MGRecipes.git`
 2. Naviga nella cartella del progetto tramite il terminale.
 3. Installa le dipendenze eseguendo `npm install`.
 4. Avvia il server locale con il comando `npm start`.
