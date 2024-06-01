@@ -1,6 +1,8 @@
 # Benvenuti a "MGRecipes" - Il Ricettario Online
 
-![Logo](https://i.ibb.co/fNDxjpj/mgrecipeslogo.png)
+<p align="center">
+  <img src="https://i.ibb.co/fNDxjpj/mgrecipeslogo.png" alt="Logo" />
+</p>
 
 ## Descrizione del Progetto
 
